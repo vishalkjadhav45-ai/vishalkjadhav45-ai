@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.png" alt="Vishal Jadhav Banner" width="100%">
+  <img src="./banner.png" width="80%">
 </div>
 
 <br>
@@ -8,7 +8,9 @@
 
 ### 🚀 DevOps Engineer | AWS | Docker | Kubernetes | CI/CD
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=DevOps+Engineer+in+Progress;AWS+%7C+Docker+%7C+Kubernetes;CI%2FCD+Automation+Enthusiast;Linux+%26+Cloud+Infrastructure;Building+Reliable+and+Scalable+Systems+🚀" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=DevOps+Engineer+in+Progress;AWS+%7C+Docker+%7C+Kubernetes;CI%2FCD+Automation+Enthusiast;Linux+%26+Cloud+Infrastructure" />
+</p>
 
 </div>
 
