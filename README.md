@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="./banner.png" alt="Vishal Jadhav Banner" width="100%">
+</div>
+
+<br>
 
 # 👋 Hi, I'm Vishal Jadhav
 
